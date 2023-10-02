@@ -1,0 +1,7 @@
+# Sentiment-Analysis-of-Restaurent-Review
+The objective of this study is to provide an in-depth understanding of sentiment analysis techniques, their application to restaurant reviews, and the actionable insights that can be derived from this analysis.
+In the era of digital dining, where consumers rely heavily on online reviews to make informed dining choices, the analysis of restaurant reviews has emerged as a vital aspect of the hospitality industry. This study delves into the world of sentiment analysis, employing natural language processing techniques to gauge customer sentiments expressed in restaurant reviews.
+
+This research explores the methodology behind sentiment analysis, including text preprocessing, sentiment lexicons, and machine learning models, to assess the overall sentiment of customer feedback. By analyzing vast datasets of restaurant reviews sourced from popular platforms such as Yelp, TripAdvisor, and Google Reviews, the study uncovers valuable insights into customer satisfaction trends, helping restaurant owners and managers make data-driven decisions to enhance the dining experience.
+
+The objective of this study is to provide an in-depth understanding of sentiment analysis techniques, their application to restaurant reviews, and the actionable insights that can be derived from this analysis. By examining the sentiments expressed by diners, this research contributes to improving restaurant service quality, marketing strategies, and overall customer satisfaction, ultimately benefiting both consumers and the hospitality industry.
